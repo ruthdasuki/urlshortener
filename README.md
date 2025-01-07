@@ -4,19 +4,19 @@
 A simple and efficient URL shortener service that allows users to transform long URLs into short, easy-to-share links. It also tracks usage statistics and provides analytics for shortened URLs.
 
 ### Landing Page
-<img width="1726" alt="Screenshot 2024-12-30 at 1 47 53 PM" src="https://git.target.com/RuthDasuki/urlshortener/assets/17677/ab98f1b1-198b-46de-bb07-f5ae1fe587df">
+<img width="1726" alt="Screenshot 2024-12-30 at 1 47 53 PM" src="https://github.com/user-attachments/assets/76aa1c65-9793-4aa0-b44f-0e05a4f3f280" />
 
 ### List of URLs
-<img width="1728" alt="Screenshot 2024-12-30 at 1 48 42 PM" src="https://git.target.com/RuthDasuki/urlshortener/assets/17677/6e2bd812-1b19-452c-b3e6-b22cd192885d">
+<img width="1728" alt="Screenshot 2024-12-30 at 1 48 42 PM" src="https://github.com/user-attachments/assets/fa5d029d-9903-423b-b689-5a68f663bba4" />
 
 ### Log In Page
-<img width="1728" alt="Screenshot 2024-12-30 at 1 49 35 PM" src="https://git.target.com/RuthDasuki/urlshortener/assets/17677/6bed7364-3bc4-4e93-8c83-6da155235d3c">
+<img width="1728" alt="Screenshot 2024-12-30 at 1 49 35 PM" src="https://github.com/user-attachments/assets/0501d215-4d66-4105-8521-e36341a09574" />
 
 ### URLs With Analytics
-<img width="1727" alt="Screenshot 2024-12-30 at 5 28 06 PM" src="https://git.target.com/RuthDasuki/urlshortener/assets/17677/4391dd71-a213-4abb-adda-82c089b54edb">
+<img width="1727" alt="Screenshot 2024-12-30 at 5 28 06 PM" src="https://github.com/user-attachments/assets/870eefff-e28c-4a87-b55d-c3ea3e8bd322" />
 
 ### Update Alias
-<img width="1728" alt="Screenshot 2024-12-30 at 10 46 54 PM" src="https://git.target.com/RuthDasuki/urlshortener/assets/17677/d1f310bf-4e18-4cbd-90a1-1fa40b559555">
+<img width="1728" alt="Screenshot 2024-12-30 at 10 46 54 PM" src="https://github.com/user-attachments/assets/fc12e64a-c944-45df-8d6c-45f662b14b03" />
 
 
 ---
